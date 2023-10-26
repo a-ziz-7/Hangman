@@ -1,5 +1,3 @@
-# Hangman
-
 # Hangman Game
 
 This is a simple command-line Hangman game implemented in Python. You can play it either in single-player mode or two-player mode.
