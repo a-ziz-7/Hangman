@@ -55,7 +55,7 @@ def play_hangman(tries=6, one=True):
         word = get_word_from_words(words)
     else:
         word = get_word()
-    os.system("cls")
+        os.system("cls")
     word_letter = set(word)
     alphabet = set(string.ascii_uppercase)
     used_letters = set()
